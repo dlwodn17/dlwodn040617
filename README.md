@@ -8,6 +8,9 @@
   * set
 * 제어문
   * 조건문 (if, elif, else)
+  * 반복문 (while, for)
+* comprehension
+* 함수
   
     
 어서옵쇼 ~~~~
